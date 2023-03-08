@@ -1,0 +1,47 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.big {
+  position:relativek
+  margin:100px auto 500px;
+  border:5px solid black;
+  width: 500px;
+  height: 500px;
+}
+
+.small {
+  width: 100px;
+  height: 100px;
+
+}
+
+#red {
+  background-color: red;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+
+}
+
+#gold{
+  background-color: gold;
+  position: fixed;
+
+}
+
+#green {
+  background-color: green;
+  position: absolute;
+}
+
+#pink {
+  background-color: pink;
+  position: relative;
+}
+
+#blue {
+  background-color: blue;
+  position: absolute;
+}
